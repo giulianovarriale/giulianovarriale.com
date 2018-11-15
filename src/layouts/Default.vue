@@ -1,42 +1,18 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link :to="{ name: 'home' }">Gridsome</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" :to="{ name: 'home' }">Home</g-link>
-        <g-link class="nav__link" :to="{ name: 'about' }">About</g-link>
-      </nav>
-    </header>
     <slot/>
   </div>
 </template>
 
 <style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
-.layout {
-  max-width: 600px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
+  @tailwind preflight;
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
+  body {
+    font-family: Montserrat, sans-serif;
+  }
 
-.nav__link {
-  margin-left: 20px;
-}
+  @tailwind components;
+  @tailwind utilities;
 </style>
