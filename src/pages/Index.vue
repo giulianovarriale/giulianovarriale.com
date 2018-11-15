@@ -59,8 +59,11 @@
 
       <p class="mb-5">
         Since then, I’ve been learning everyday, developing and improving features for known companies
-        such as Leroy Merlin, Enjoei and Consulta Remédios, which is the company I currently work for
-        remotely.
+        such as
+        <a target="_blank" href="https://www.leroymerlin.com.br/">Leroy Merlin</a>,
+        <a target="_blank" href="https://www.enjoei.com.br/">Enjoei</a> and
+        <a target="_blank" href="https://www.consultaremedios.com.br/">Consulta Remédios</a>,
+        which is the company I currently work for remotely.
       </p>
     </div>
   </Layout>
