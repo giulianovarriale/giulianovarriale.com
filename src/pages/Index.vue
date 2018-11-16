@@ -14,14 +14,14 @@
 
     <ul class="list-reset my-10 lg:my-20 mx-10 lg:mx-20">
       <li class="mb-4">
-        <a href="github.com/giulianovarriale" target="_blank" class="font-bold">
+        <a href="https://github.com/giulianovarriale" target="_blank" class="font-bold">
           github.com/giulianovarriale
         </a>
       </li>
 
       <li class="mb-4">
-        <a href="linkedin.com/in/giuliano-varriale-33983571/" class="font-bold">
-          linkedin.com/in/giuliano-varriale-33983571/
+        <a href="https://linkedin.com/in/giuliano-varriale-33983571/" class="font-bold">
+          linkedin.com/in/giuliano-varriale-33983571
         </a>
       </li>
 
