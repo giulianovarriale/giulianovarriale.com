@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "gridsome": "^0.3.0"
   },
   "devDependencies": {
