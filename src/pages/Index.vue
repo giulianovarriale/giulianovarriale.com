@@ -8,7 +8,7 @@
       >
 
       <h1 class="font-bold text-lg md:text-2xl lg:text-3xl pl-4 lg:pl-10">
-        Hi, I’m Giuliano Varriale, 30, front-end developer
+        Hi, I’m Giuliano Varriale, 30 years old, front-end developer
       </h1>
     </div>
 
