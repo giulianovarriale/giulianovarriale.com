@@ -3,7 +3,6 @@ const tailwindcss = require('tailwindcss');
 module.exports = {
   siteName: 'Giuliano Varriale',
   siteUrl: 'giulianovarriale.com',
-  siteDescription: 'Giuliano Varriale, 30, front-end developer',
 
   plugins: [],
 
