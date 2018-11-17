@@ -70,7 +70,12 @@
 </template>
 
 <script>
-export default {}
+export default {
+  metaInfo: {
+    title: 'Giuliano Varriale',
+    titleTemplate: '%s'
+  }
+}
 </script>
 
 <style scoped>
