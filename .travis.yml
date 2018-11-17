@@ -1,6 +1,7 @@
 language: node_js
 script:
-  - npm test
+  - yarn install
+  - yarn test
 deploy:
   provider: script
   script: NETLIFY_SITE_ID=$NETLIFY_SITE_ID NETLIFY_ACCESS_TOKEN=$NETLIFY_ACCESS_TOKEN node deploy.js
