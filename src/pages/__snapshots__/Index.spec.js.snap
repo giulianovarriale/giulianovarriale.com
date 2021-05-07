@@ -7,19 +7,19 @@ exports[`Index matches the snapshot 1`] = `
   <div
     class="flex items-center"
   >
-    <img
-      alt="Foto de Giuliano Varriale"
-      class="w-32 md:w-auto"
-      src="@/assets/profile.jpg"
-    />
-     
     <h1
-      class="font-bold text-lg md:text-2xl lg:text-3xl pl-4 lg:pl-10"
+      class="font-bold text-lg md:text-2xl lg:text-3xl pr-4 lg:pr-10"
     >
       
-      Hi, I’m Giuliano Varriale, 30, front-end developer
+      Hi, I’m Giuliano Varriale, 32, frontend developer
     
     </h1>
+     
+    <img
+      alt="Foto de Giuliano Varriale"
+      class="w-32 md:w-64"
+      src="@/assets/profile.jpg"
+    />
   </div>
    
   <ul
@@ -33,9 +33,7 @@ exports[`Index matches the snapshot 1`] = `
         href="https://github.com/giulianovarriale"
         target="_blank"
       >
-        
         github.com/giulianovarriale
-      
       </a>
     </li>
      
@@ -46,9 +44,7 @@ exports[`Index matches the snapshot 1`] = `
         class="font-bold"
         href="https://linkedin.com/in/giuliano-varriale-33983571/"
       >
-        
         linkedin.com/in/giuliano-varriale-33983571
-      
       </a>
     </li>
      
@@ -59,9 +55,7 @@ exports[`Index matches the snapshot 1`] = `
         class="font-bold"
         href="mailto:giuliano.oca@gmail.com"
       >
-        
         giuliano.oca@gmail.com
-      
       </a>
     </li>
   </ul>
@@ -73,12 +67,13 @@ exports[`Index matches the snapshot 1`] = `
       class="mb-5"
     >
       
-      I started to work with the internet as a web designer, designing and developing websites for
-      digital agencies. During this time, I have learned the frontend development foundations like
-      HTML and CSS and a little bit of javascript - mostly, jQuery plugins initializations.
-
-      The main challenges in this time were related to the layouts and its creative navigations and
-      interactions, since agencies love creating innovative user experiences.
+      I started to work with the internet as a web designer, designing and
+      developing websites for digital agencies. During this time, I have
+      learned the frontend development foundations like HTML and CSS and a
+      little bit of javascript - mostly, jQuery plugins initializations. The
+      main challenges in this time were related to the layouts and its
+      creative navigations and interactions, since agencies love creating
+      innovative user experiences.
     
     </p>
      
@@ -86,10 +81,12 @@ exports[`Index matches the snapshot 1`] = `
       class="mb-5"
     >
       
-      As time went by, the web became more dynamic and interactive. In order to build a better user
-      experience, things like route handling, views rendering and business logic became frontend
-      responsibilities, all of it, provided by javascript and its hundreds frameworks and libraries.
-      Besides that, nodejs came out, bringing with it, an entire new ecosystem with amazing tools.
+      As time went by, the web became more dynamic and interactive. In order
+      to build a better user experience, things like route handling, views
+      rendering and business logic became frontend responsibilities, all of
+      it, provided by javascript and its hundreds frameworks and libraries.
+      Besides that, nodejs came out, bringing with it, an entire new ecosystem
+      with amazing tools.
     
     </p>
      
@@ -97,11 +94,13 @@ exports[`Index matches the snapshot 1`] = `
       class="mb-5"
     >
       
-      I really wanted to work with this new whole environment, so I decided to look for a new job
-      where I could use it in my daily basis. I started to work for a software boutique company
-      called Codeminer where I have learned software design concepts, best practices and, of course,
-      javascript. There, I also had my first experience working in a large code base, which turned
-      completely my thoughts about how to build an web application.
+      I really wanted to work with this new whole environment, so I decided to
+      look for a new job where I could use it in my daily basis. I started to
+      work for a software boutique company called Codeminer where I have
+      learned software design concepts, best practices and, of course,
+      javascript. There, I also had my first experience working in a large
+      code base, which turned completely my thoughts about how to build an web
+      application.
     
     </p>
      
@@ -109,8 +108,8 @@ exports[`Index matches the snapshot 1`] = `
       class="mb-5"
     >
       
-      Since then, I’ve been learning everyday, developing and improving features for known companies
-      such as
+      Since then, I’ve been learning everyday, developing and improving
+      features for known companies such as
       
       <a
         href="https://www.leroymerlin.com.br/"
@@ -118,8 +117,7 @@ exports[`Index matches the snapshot 1`] = `
       >
         Leroy Merlin
       </a>
-      ,
-      
+      , 
       <a
         href="https://www.enjoei.com.br/"
         target="_blank"
@@ -134,9 +132,14 @@ exports[`Index matches the snapshot 1`] = `
       >
         Consulta Remédios
       </a>
-      ,
-      which is the company I currently work for remotely.
-    
+      . Currently, I'm living in the Netherlands, working for
+      
+      <a
+        href="https://www.coolblue.nl"
+        target="_blank"
+      >
+        Coolblue
+      </a>
     </p>
   </div>
 </layout-stub>
