@@ -4,7 +4,14 @@ module.exports = {
   siteName: 'Giuliano Varriale',
   siteUrl: 'giulianovarriale.com',
 
-  plugins: [],
+  plugins: [
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-48930934-1'
+      }
+    }
+  ],
 
   chainWebpack: config => {
     config.module
